@@ -1,16 +1,14 @@
-### Hi there 👋
+### Opa, Bem vindo 👋
 
-<!--
-**HumbertoSardeiro/HumbertoSardeiro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+###### sobre o Humberto:
 
-Here are some ideas to get you started:
+Se aventurando no mundo da programação
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Detalhes
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HumbertoSardeiro&show_icons=true&theme=dark)
+
+### Projeto
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HumbertoSardeiro&repo=Tik-Tok-Project&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
+### Linguagens utilizadas
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HumbertoSardeiro&theme=dark&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
